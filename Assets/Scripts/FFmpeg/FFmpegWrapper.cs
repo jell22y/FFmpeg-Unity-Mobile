@@ -40,3 +40,4 @@ public class FFmpegWrapper
         return 0;
 #endif
     }
+}
